@@ -65,7 +65,7 @@ public class PersonController {
 		System.out.println("name is"+stu.getName());
 		System.out.println(" this is id "+id);
 		
-		
+//		test comand
 		
 		
 		return null;
